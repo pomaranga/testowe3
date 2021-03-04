@@ -1,4 +1,4 @@
-﻿to jest mój wersjonowany plik
+to jest mój wersjonowany plik
 linijka druga
 linia AniO
 linia 4ry
@@ -11,3 +11,5 @@ hej
 xxx
 teteterfe
 raz dwa trzy
+123
+
