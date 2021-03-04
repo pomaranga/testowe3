@@ -3,4 +3,5 @@ linijka druga
 linia AniO
 linia 4ry
 linia 5
-linia do konfliktu
+linia do konfliktu !
+ej
