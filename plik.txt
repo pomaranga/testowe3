@@ -13,4 +13,8 @@ linia do konfliktu !
 ej
 hej
 xxx
+<<<<<<< HEAD
 >>>>>>> a3caaa327f23343e9afb7b7513f4db8a4b4af24d
+=======
+teteterfe
+>>>>>>> 46e72c0e30b61c0297a93f4bcbe7c90ab871f839
