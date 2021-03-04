@@ -1,4 +1,8 @@
-to jest mój wersjonowany plik
+﻿to jest mój wersjonowany plik
 linijka druga
 linia AniO
+<<<<<<< HEAD
 linia 5
+=======
+linia 4ry
+>>>>>>> fb45d39d4c56b3724dcc746803d213a4fb9b7806
