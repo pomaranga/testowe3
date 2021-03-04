@@ -18,3 +18,4 @@ xxx
 =======
 teteterfe
 >>>>>>> 46e72c0e30b61c0297a93f4bcbe7c90ab871f839
+raz dwa trzy
