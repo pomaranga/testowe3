@@ -2,3 +2,4 @@ to jest mój wersjonowany plik
 linijka druga
 linia AniO
 linia 4ry
+linia 5?
