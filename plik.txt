@@ -1,13 +1,6 @@
 ﻿to jest mój wersjonowany plik
 linijka druga
 linia AniO
-<<<<<<< HEAD
 linia 4ry
-linia 5?
-=======
-<<<<<<< HEAD
 linia 5
-=======
-linia 4ry
->>>>>>> fb45d39d4c56b3724dcc746803d213a4fb9b7806
->>>>>>> 9e57ad034e63faa7a9a7ab5499b80d46265da053
+linia do konfliktu
