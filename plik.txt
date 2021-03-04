@@ -3,5 +3,14 @@ linijka druga
 linia AniO
 linia 4ry
 linia 5
+<<<<<<< HEAD
+linia do konfliktu
+linia kolejna
+
+
+=======
 linia do konfliktu !
 ej
+hej
+xxx
+>>>>>>> a3caaa327f23343e9afb7b7513f4db8a4b4af24d
