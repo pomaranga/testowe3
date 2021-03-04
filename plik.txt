@@ -1,2 +1,3 @@
 to jest mój wersjonowany plik
 linijka druga
+linia AniO
